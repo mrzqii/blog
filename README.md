@@ -1,7 +1,7 @@
 ## 写博客的地方
 #### 这个仓库是我写博客的地方，博客内容在issue里面。
 
-[我的博客](https://github.com/mrzqii/blog/edit/master/README.md)
+[我的博客](https://github.com/mrzqii/blog/issues)
 
 #### 初衷
 之前一直是使用github + hexo [地址：](https://mrzqii.github.io/), 有事没事还要折腾下样式 、主题的修改。后来看到很多人在使用github来写blog,于是就尝试了下， 给人感觉就是很纯粹，功能很直接，使用很方便。所以就决定以后就在这里写自己的blog
